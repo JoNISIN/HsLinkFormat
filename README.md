@@ -1,6 +1,6 @@
 # A Tool to Format the Link-title-content for a Website
 
-This is a command line interface (CLI) tool to concat the **Title** and **Link** or other contents into markdown format with REPL process.
+This is a command line interface (CLI) tool to concat the ***Title*** and ***Link*** or other contents into markdown format with REPL process.
 
 It includes four main mode:
 - item
